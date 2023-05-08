@@ -26,10 +26,3 @@ O MIDI tem um teclado digitial com 9 botões, cada botão reproduzirá o som de 
   - `template string`;
   - `event handlers`;
 
-## 🛠️ Abrir e rodar o projeto
-
-Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
-
-## 📚 Mais informações do curso
-
-Busque na plataforma da Alura o curso **JavaScript para web: crie páginas dinâmicas** publicado na Escola Frontend.
