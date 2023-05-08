@@ -33,5 +33,3 @@ Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
 ## 📚 Mais informações do curso
 
 Busque na plataforma da Alura o curso **JavaScript para web: crie páginas dinâmicas** publicado na Escola Frontend.
-
-Teste commit
